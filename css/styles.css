@@ -38,3 +38,7 @@ body {
 	background :#364f6b;
 }
 
+.tab-content {
+	border-bottom: 1px solid #ddd;
+	padding: 10px;
+}
