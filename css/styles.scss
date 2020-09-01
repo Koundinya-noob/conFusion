@@ -1,0 +1,20 @@
+$lt-gray: #ddd;
+$background-dark: #393b44;
+$background-light: #d6e0f0;
+$background-pale: f6f6f6;
+
+// Height variables
+$carousel-item-height: 300px;
+
+.modal-header {
+    background: $background-dark;
+    color: #fffaf0;
+    button {
+    color: #fffaf0;
+    }
+}
+
+.modal-body {
+    background: $background-light;
+}
+
